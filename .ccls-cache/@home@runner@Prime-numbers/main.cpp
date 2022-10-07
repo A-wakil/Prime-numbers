@@ -3,6 +3,7 @@ using namespace std;
 int main() {
   int low;
   int high;
+  cout<<"Enter a range to get the prime numbers in the range\n";
   cout<<"Enter a lower limit: ";
   cin>>low;
   cout<<"Enter a higher limit: ";
